@@ -1,0 +1,90 @@
+/* Empty. Add your own CSS if you like */
+.logo{
+    background: #ffffff;
+    padding: 60px;
+    background-image: url('http://www.techvezoto.com/wp-content/uploads/2016/08/Techvezoto-final-versionDark.png');
+    background-attachment: fixed;
+/*    background-repeat: no-repeat;*/
+    background-position: center center;
+    background-size: contain;
+    
+    
+}
+
+#side-menu-bg {
+ 
+    
+    background: grey;
+    
+}
+
+
+
+.image-list{
+        
+        width: 350px;
+        height: 510px;
+/*        padding: 5px 5px 5px 5px;*/
+
+}
+
+.red{
+    background: #e2001a;
+    color:#ffffff;
+}
+
+.purple{
+    background: #6f196f;
+    color:#ffffff;
+}
+
+.blue{
+    background: #070776;
+    color:#ffffff;
+}
+
+/*Slider*/
+
+.sliderBox {
+    height: 100vh;
+    width: 100%;
+}
+
+
+.sliderBox img {
+    height: 99vh;
+    width: 100%;
+}
+/*Slider*/
+
+.bg{
+   
+/*
+background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+*/
+    color:white;
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+#detail-card{
+    opacity: 0.8;
+    
+}
+
+/*
+ .scroll-content {
+    background: url('http://www.techvezoto.com/wp-content/uploads/2016/06/GraphicDesigns-banner-450x300.png') center center no-repeat;
+
+    [add any more properties here]
+
+  }
+*/
